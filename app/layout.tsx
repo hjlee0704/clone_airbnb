@@ -20,6 +20,7 @@ export default function RootLayout({
       <h1> Start something new</h1>
       <h2> sunday today</h2>
       <h3> thinking about the next project idea /n enlight me with some good ideas please</h3>
+      <h3> did some monotonic stack question and looked at the docker tutorial</h3>
 
       
     </html>
