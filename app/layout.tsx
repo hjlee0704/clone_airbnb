@@ -21,6 +21,7 @@ export default function RootLayout({
       <h2> sunday today</h2>
       <h3> thinking about the next project idea /n enlight me with some good ideas please</h3>
       <h3> did some monotonic stack question and looked at the docker tutorial</h3>
+      <h3> what did i do today, looked some monotonic question and all</h3>
 
       
     </html>
